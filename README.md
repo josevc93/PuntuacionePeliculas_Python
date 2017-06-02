@@ -17,4 +17,8 @@ Este proyecto utiliza:
 * Seguidamente se lanzan el servidor y los workers (se utilizan tantos workers como películas).
 * Posteriormente se ejecuta el cliente, introduciendo por consola el nombre del fichero en dropbox (que se la pasará al servidor).
 * Una vez finalizado los procesos, podemos ver el resultado en Dropbox.
+* Para que funcione hay que añadir el token para autentificarnos en dropbox en el archivo servidorv1.py, en la línea 20.
 
+## Capturas
+
+[dropbox01] (
