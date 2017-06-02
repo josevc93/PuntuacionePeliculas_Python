@@ -21,4 +21,22 @@ Este proyecto utiliza:
 
 ## Capturas
 
-[dropbox01] (
+*Subir archivo a dropbox con la lista de películas*
+
+![captura01](https://github.com/josevc93/PuntuacionePeliculas_Python/blob/master/img/1.jpg)
+
+*Se lanza el servidor*
+
+![captura02](https://github.com/josevc93/PuntuacionePeliculas_Python/blob/master/img/2.jpg)
+
+*Se lanzan los workers*
+
+![captura03](https://github.com/josevc93/PuntuacionePeliculas_Python/blob/master/img/3.jpg)
+
+*Se lanza el cliente*
+
+![captura04](https://github.com/josevc93/PuntuacionePeliculas_Python/blob/master/img/4.jpg)
+
+*Obtenemos el resultado en dropbox*
+
+![captura05](https://github.com/josevc93/PuntuacionePeliculas_Python/blob/master/img/5.jpg)
