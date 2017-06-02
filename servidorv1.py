@@ -17,7 +17,7 @@ tituloFichero = sock.recv_string()
 print("Descargando archivo " + tituloFichero + " de Dropbox...")
 
 #Autenticación dropbox
-token = "Lj_p_9vyaP8AAAAAAAAN44TZOmhHAK7hn8oK1_P2YwkmVGSsy1zZbl9u_wCethH3"
+token = ""
 dbx = dropbox.Dropbox(token)
 
 #Descarga archivo
